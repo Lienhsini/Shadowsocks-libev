@@ -1,3 +1,4 @@
+**Notice! All of this is copied from Teddysun
 ![Shadowsocks](https://github.com/teddysun/shadowsocks_install/raw/master/shadowsocks.png)
 # Auto install Shadowsocks Server
 
@@ -41,4 +42,4 @@ haproxy.sh
 - Auto Install haproxy for Shadowsocks Server
 - https://shadowsocks.be/10.html
 
-Copyright (C) 2014-2018 Teddysun
+
