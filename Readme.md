@@ -1,4 +1,4 @@
-**Notice! All of this is copied from Teddysun
+**Notice! All of this is copied from Teddysun**
 ![Shadowsocks](https://github.com/teddysun/shadowsocks_install/raw/master/shadowsocks.png)
 # Auto install Shadowsocks Server
 
